@@ -1,0 +1,42 @@
+{
+    "item.pewindmagic":
+    {
+        "sounds": [ "projecte:item/pewindmagic" ],
+        "subtitle": "pe.subtitle.pewindmagic"
+    },
+    "item.pewatermagic":
+    {
+        "sounds": [ "projecte:item/pewatermagic" ],
+        "subtitle": "pe.subtitle.pewatermagic"
+    },
+    "item.pepower":
+    {
+        "sounds": [ "projecte:item/pepower" ],
+        "subtitle": "pe.subtitle.pepower"
+    },
+    "item.peheal":
+    {
+        "sounds": [ "projecte:item/peheal" ],
+        "subtitle": "pe.subtitle.peheal"
+    },
+    "item.pedestruct":
+    {
+        "sounds": [ "projecte:item/pedestruct" ],
+        "subtitle": "pe.subtitle.pedestruct"
+    },
+    "item.pecharge":
+    {
+        "sounds": [ "projecte:item/pecharge" ],
+        "subtitle": "pe.subtitle.pecharge"
+    },
+    "item.peuncharge":
+    {
+        "sounds": [ "projecte:item/peuncharge" ],
+        "subtitle": "pe.subtitle.peuncharge"
+    },
+    "item.petransmute":
+    {
+        "sounds": [ "projecte:item/petransmute" ],
+        "subtitle": "pe.subtitle.petransmute"
+    }
+}
